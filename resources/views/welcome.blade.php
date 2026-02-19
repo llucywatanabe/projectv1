@@ -8,7 +8,7 @@
                 <div class="card-body p-4 p-md-5">
                     <h1 class="h3 mb-3">Welcome to {{ config('app.name', 'Laravel') }}</h1>
                     <p class="text-muted mb-4">
-                        This project now uses a Bootstrap-based layout for consistency across all pages.
+                        He who has a why to live can bear almost any how.
                     </p>
 
                     @guest
